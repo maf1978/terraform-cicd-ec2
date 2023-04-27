@@ -1,5 +1,7 @@
 version: 0.2
-
+env:
+  exported-variables:
+    - aimadmin    
 phases:
   install:
     runtime-versions:
